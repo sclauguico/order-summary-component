@@ -49,7 +49,7 @@ Users should be able to:
 
 ### Continued development
 
-For future development, I plan on working practcing more basic HTML and CSS while integrating my new knowledge on CSS Flexbox and Grid
+For future development, I plan on practicing more basic HTML and CSS while integrating my new knowledge on CSS Flexbox and Grid
 
 
 ## Author
